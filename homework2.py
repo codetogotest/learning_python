@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Jun  3 11:58:03 2024
-
-@author: Ala
-"""
 
 import matplotlib as mpl
 

@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Jun  3 19:38:28 2024
-
-@author: Ala
-"""
 
 # Homework3
 

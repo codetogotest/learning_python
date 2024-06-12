@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Jun  3 10:38:15 2024
 
-@author: Ala
-"""
 
 # Homework1
 # matrix-1
